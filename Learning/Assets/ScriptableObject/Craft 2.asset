@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57040e0e9592c2f4a9c54b4f025856c6, type: 3}
+  m_Name: Craft 2
+  m_EditorClassIdentifier: 
+  card1: {fileID: 11400000, guid: 73359dff91744d143bd22303bcb379a5, type: 2}
+  card2: {fileID: 11400000, guid: f6f13b959f9977646a82ea9fcd267202, type: 2}
+  result: {fileID: 11400000, guid: ad88b27281b453f4a875a989023158ee, type: 2}
